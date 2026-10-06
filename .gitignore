@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+pdfs*/
+*.pdf
+download_log.csv
+not_found_dois.txt
