@@ -1,0 +1,14 @@
+{
+  "name": "andrewlin256",
+  "owner": {
+    "name": "Andrew Lin"
+  },
+  "description": "Andrew Lin's Claude Code plugins for literature work and pharmacoepidemiology.",
+  "plugins": [
+    {
+      "name": "oa-pdf-fetcher",
+      "source": "./",
+      "description": "Batch-download open-access full-text PDFs from PubMed searches, PMID/DOI lists, or RIS exports (Embase, Scopus)."
+    }
+  ]
+}
