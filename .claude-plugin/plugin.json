@@ -1,1 +1,12 @@
-
+{
+  "name": "oa-pdf-fetcher",
+  "displayName": "OA PDF Fetcher",
+  "version": "1.0.0",
+  "description": "Batch-download open-access full-text PDFs from PubMed searches, PMID/DOI lists, or RIS exports (Embase, Scopus) via Europe PMC and Unpaywall.",
+  "author": {
+    "name": "Andrew Lin"
+  },
+  "repository": "https://github.com/andrewlin256/oa-pdf-fetcher",
+  "license": "MIT",
+  "keywords": ["pubmed", "embase", "systematic-review", "open-access", "pdf", "literature"]
+}
